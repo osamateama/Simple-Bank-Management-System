@@ -24,6 +24,14 @@ Banking-System-Cpp/
 
 ---
 
+## ▶️ How to Run
+1. Clone the repo:
+   ```bash
+   git clone https://github.com/osamateama/Simple-Bank-Management-System.git
+
+ ---
+
+
 ## 🖼️ Screenshots
 
 ### ▶️ Main Menu
@@ -34,6 +42,10 @@ Banking-System-Cpp/
 
 ### ❌ Delete Client
 ![Delete Client](https://github.com/user-attachments/assets/e7d25bdd-bca2-42d3-bb27-2367cf5a27e6)
+
+---
+
+
 
 
 
