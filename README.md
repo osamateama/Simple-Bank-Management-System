@@ -24,6 +24,16 @@ Banking-System-Cpp/
 
 ---
 
+## 🖼️ Screenshots
+
+### ▶️ Main Menu
+![Main Menu](https://github.com/user-attachments/assets/2f567ddd-0abd-4a3c-8a88-2f68a52c2449)
+
+### ➕ Add New Client
+![Add Client](https://github.com/user-attachments/assets/6a0fd0ca-a8fa-4c3f-9c62-feec375ad68d)
+
+### ❌ Delete Client
+![Delete Client](https://github.com/user-attachments/assets/e7d25bdd-bca2-42d3-bb27-2367cf5a27e6)
 
 
 
